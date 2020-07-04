@@ -3,6 +3,10 @@
             "voices":["point.wav"]
         },
         {
+            "keywords":["queue","Q"],
+            "voices":["queue.wav"]
+        },
+        {
             "keywords":["sg"],
             "voices":["sg.wav"]
         },       
