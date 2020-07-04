@@ -1,4 +1,12 @@
         {
+            "keywords":["int *","char *"],
+            "voices":["point.wav"]
+        },
+        {
+            "keywords":["sg"],
+            "voices":["sg.wav"]
+        },       
+        {
             "keywords":["bfs"],
             "voices":["bfs.wav"]
         },
